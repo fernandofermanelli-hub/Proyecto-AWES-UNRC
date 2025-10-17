@@ -8,3 +8,4 @@ ancho = 2
 largo = 3
 superficie = 4
 radius = 5
+altura = 6
